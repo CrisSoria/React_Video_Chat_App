@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "WebRTC Video Chat Zoom Clone",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CrisSoria/React_Video_Chat_App.git"
